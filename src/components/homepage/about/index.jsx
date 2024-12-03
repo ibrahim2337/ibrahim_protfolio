@@ -24,7 +24,7 @@ function AboutSection() {
             src={personalData.profile}
             width={280}
             height={280}
-            alt="Md Sakibul Islam"
+            alt="MD Ibrahim Khalilullah"
             className="border border-[#1a1443] rounded-lg"
           />
         </div>
