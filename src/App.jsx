@@ -8,21 +8,22 @@ import HeroSection from "./components/homepage/hero-section";
 import Projects from "./components/homepage/projects";
 import Skills from "./components/homepage/skills";
 import Navbar from "./components/navbar";
+import "./css/globals.scss";
 
 function App() {
   return (
     <div>
       <Navbar />
       <main className="min-h-screen relative mx-auto px-6 sm:px-12 lg:max-w-[70rem] xl:max-w-[76rem] 2xl:max-w-[92rem] text-white">
-      <>
-      <HeroSection />
-      <AboutSection />
-      <Experience />
-      <Skills />
-      <Education />
-      <Projects />
-      <ContactSection />
-    </>
+        <>
+          <HeroSection />
+          <AboutSection />
+          <Experience />
+          <Skills />
+          <Education />
+          <Projects />
+          <ContactSection />
+        </>
         <ScrollToTop />
       </main>
       <Footer />
