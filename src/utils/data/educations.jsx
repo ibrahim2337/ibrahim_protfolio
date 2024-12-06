@@ -9,13 +9,13 @@ export const educations = [
       id: 2,
       title: "Higher Secondary Certificate",
       duration: "2016 - 2018",
-      institution: "Tejgaon College",
+      institution: "Shah Makhdum College, Rajshahi",
     },
     {
       id: 3,
       title: "Secondary School Certificate",
-      duration: "2006 - 2016",
-      institution: "Khilgaon Govt. High School",
+      duration: "2013 - 2016",
+      institution: "Maidan Dighi High School, Pabna",
     },
   ];
   

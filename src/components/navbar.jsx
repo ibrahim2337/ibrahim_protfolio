@@ -6,7 +6,7 @@ function Navbar() {
       <div className="flex items-center justify-between py-5 mx-auto px-6 sm:px-12 lg:max-w-[70rem] xl:max-w-[76rem] 2xl:max-w-[92rem]">
         <div className="flex flex-shrink-0 items-center justify-center">
           <a href="/" className=" text-[#16f2b3] text-3xl font-bold">
-            SAKIBUL ISLAM
+          Ibrahim Khalilullah.
           </a>
         </div>
 
