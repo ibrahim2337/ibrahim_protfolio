@@ -8,11 +8,11 @@ export const personalData = {
   phone: "+8801734454539",
   address: "House 38, Lean 2, Block A, Section 6, Mirpur, Dhaka, Bangladesh",
   github: "https://github.com/ibrahim2337",
-  facebook: "https://www.facebook.com/itsonlysakib/",
-  linkedIn: "https://www.facebook.com/profile.php?id=100084438098171",
+  facebook: "https://www.facebook.com/profile.php?id=100084438098171",
+  linkedIn: "",
   twitter: "",
   stackOverflow: "",
   leetcode: "",
   resume:
-    "https://drive.google.com/file/d/1GHKH2A1no_u9DWbmSUcR135uQWdGHAtY/view?usp=drive_link",
+    "https://drive.google.com/file/d/1X-IN4hqhY6QkM0axhMe7yiwG8KNyaaii/view?usp=sharing",
 };

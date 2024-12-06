@@ -15,7 +15,7 @@ function Footer() {
               href="https://www.linkedin.com/in/sakib0808/"
               className="text-[#16f2b3]"
             >
-              Md Sakibul Islam
+              Md Ibrahim Khalilullah
             </a>
           </p>
         </div>
