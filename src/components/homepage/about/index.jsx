@@ -22,8 +22,8 @@ function AboutSection() {
         <div className="flex justify-center order-1 lg:order-2">
           <img
             src={personalData.profile}
-            width={280}
-            height={280}
+            width={300}
+            height={300}
             alt="MD Ibrahim Khalilullah"
             className="border border-[#1a1443] rounded-lg"
           />
