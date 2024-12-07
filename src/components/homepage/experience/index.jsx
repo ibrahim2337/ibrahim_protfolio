@@ -13,7 +13,7 @@ function Experience() {
       className="relative z-50 border-t my-12 lg:my-24 border-[#25213b]"
     >
       <img
-        src="../../../../public/assets/section.svg"
+        src="/assets/section.svg"
         alt="Hero"
         width={1572}
         height={795}
@@ -47,7 +47,7 @@ function Experience() {
                 >
                   <div className="p-3 relative">
                     <img
-                      src="../../../assets/blur-23.svg"
+                      src="/assets/blur-23.svg"
                       alt="Hero"
                       width={1080}
                       height={200}
