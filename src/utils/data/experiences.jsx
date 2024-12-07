@@ -1,21 +1,15 @@
 export const experiences = [
     {
       id: 1,
-      title: "Software Developer (Full Time)",
-      company: "Repliq Limited",
-      duration: "(Jul 2023 - Jun 2024)",
+      title: "Software Developer (Intern)",
+      company: "ADDIE Soft Limited",
+      duration: "(Jul 2024 - Present)",
     },
     {
       id: 2,
-      title: "React developer (Intern)",
-      company: "Algosoft Technologies Ltd.",
-      duration: "(Jan 2023 - Jun 2023)",
-    },
-    {
-      id: 3,
-      title: "Full Stack Developer (freelance)",
-      company: "Fiverr (Level 1) & Upwork (New)",
-      duration: "(Nov 2023 - Present)",
+      title: "Front End Developer (freelance)",
+      company: "Fiverr (New)",
+      duration: "(Jul 2024 - Present)",
     },
   ];
   

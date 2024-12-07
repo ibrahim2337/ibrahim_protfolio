@@ -11,7 +11,7 @@ function Education() {
       className="relative z-50 border-t my-12 lg:my-24 border-[#25213b]"
     >
       <img
-        src="/public/assets/section.svg"
+        src="../../../../public/assets/section.svg"
         alt="Hero"
         width={1572}
         height={795}
